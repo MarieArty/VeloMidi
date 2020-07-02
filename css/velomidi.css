@@ -1,0 +1,31 @@
+.logo {
+    width: 100px;
+    height: 50px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#diaporama {
+    margin-top: 20px;
+}
+
+.map {
+    height: 400px;
+}
+
+#reservation {
+    display: none;
+}
+
+.container {
+    width: 1280px;
+}
+
+#signature {
+    width: 100%;
+    min-height: 100px;
+    background-color: dimgray;
+}
